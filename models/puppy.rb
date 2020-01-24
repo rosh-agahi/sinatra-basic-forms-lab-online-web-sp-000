@@ -8,7 +8,6 @@ class Puppy
     @name = name
     @breed = breed
     @age = age
-    puppies << self
   end
   
 end
